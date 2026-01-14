@@ -130,6 +130,13 @@ CSE Undergrad | Python | SQL | AI & ML Enthusiast
 
 Thanks to open-source datasets and libraries that made this project possible.
 
+## 🤝 Connect With Me
+
+👤 *Rishave Kumar*  
+📞 *Contact:* +91-6299329195
+🔗 *LinkedIn:* www.linkedin.com/in/rishave-kumar-0b8100288
+📧 *Email:* rishave015@gmail.com
+
 
 
 
